@@ -1,0 +1,21 @@
+# Pytest cache
+.cache/
+pytest_cache/
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+.env/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class

@@ -1,0 +1,13 @@
+fastapi
+fastapi[standard]
+uvicorn
+uvicorn[standard]
+cryptography
+SQLAlchemy
+psycopg
+psycopg-binary
+pydantic
+python-dotenv
+pip
+setuptools
+wheel
