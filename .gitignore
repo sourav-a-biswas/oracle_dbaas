@@ -11,6 +11,7 @@ env/
 
 # Logs
 *.log
+.gitignore
 
 # Environment variables
 .env
